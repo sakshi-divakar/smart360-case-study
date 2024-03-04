@@ -1,0 +1,14 @@
+Consumer ID,Name,Address,Contact Number,Email Address,Account Number,Meter Number,Tariff Plan,Consumption History,Payment Status
+1,John Doe,123 Main St,555-123-4567,johndoe@example.com,ACCT-001,MTR-001,Plan A,100 kWh,Paid
+2,Jane Smith,456 Elm St,555-234-5678,janesmith@example.com,ACCT-002,MTR-002,Plan B,150 kWh,Unpaid
+3,Michael Johnson,789 Oak St,555-345-6789,michaeljohnson@example.com,ACCT-003,MTR-003,Plan C,200 kWh,Paid
+4,Sarah Brown,987 Pine St,555-456-7890,sarahbrown@example.com,ACCT-004,MTR-004,Plan A,120 kWh,Unpaid
+5,David Lee,654 Maple St,555-876-5432,davidlee@example.com,ACCT-005,MTR-005,Plan B,180 kWh,Paid
+6,Emily Davis,321 Birch St,555-987-6543,emilydavis@example.com,ACCT-006,MTR-006,Plan C,220 kWh,Unpaid
+7,Robert Wilson,852 Cedar St,555-765-4321,robertwilson@example.com,ACCT-007,MTR-007,Plan A,130 kWh,Paid
+8,Lisa Taylor,741 Walnut St,555-654-3210,lisataylor@example.com,ACCT-008,MTR-008,Plan B,160 kWh,Paid
+9,Matthew Anderson,369 Pineapple St,555-543-2109,matthewanderson@example.com,ACCT-009,MTR-009,Plan C,240 kWh,Paid
+10,Amy Martinez,159 Orange St,555-432-1098,amymartinez@example.com,ACCT-010,MTR-010,Plan A,110 kWh,Unpaid
+11,Christopher Garcia,753 Lemon St,555-321-0987,christophergarcia@example.com,ACCT-011,MTR-011,Plan B,170 kWh,Unpaid
+12,Amanda Hernandez,258 Grape St,555-210-9876,amandahernandez@example.com,ACCT-012,MTR-012,Plan C,260 kWh,Paid
+13,James Nguyen,852 Peach St,555-098-7654,jamesnguyen@example.com,ACCT-013,MTR-013,Plan A,140 kWh,Paid
